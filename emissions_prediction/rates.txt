@@ -1,0 +1,7 @@
+CO2 = 1e13 g
+CO = 1e11 g
+CH4 = 1e10 g
+BC = 1e9 g 
+H2 = 1e10 g 
+NMHC = 1e10 g
+NOx = 1e10 g
