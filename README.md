@@ -1,3 +1,5 @@
+# Forest Fires Analysis, Visualizations and Solutions
+
 Our Team - Team 33:
 - Naimeesh Narayan Tiwari (2020101074)
 - Harshita Gupta (2020101078)
